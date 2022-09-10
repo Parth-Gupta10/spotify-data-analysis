@@ -2,10 +2,13 @@
 
 ## Introduction
 
-Spotify is a Swedish audio streaming and media services provider founded in April 2006. It is the world's largest music streaming service provider and has over 381 million monthly active users, which also includes 172 million paid subscribers. We'll exploring and quantify data about music and drawing valuable insights by plotting some graphs.
+Spotify is a Swedish audio streaming and media services provider founded in April 2006. It is the world's largest music streaming service provider and has over 381 million monthly active users, which also includes 172 million paid subscribers. We'll exploring and quantify data about music and drawing valuable insights by plotting some graphs. The python file is hosted at [here](https://parth-gupta10.github.io/spotify-data-analysis/) showing all graphs and tables.
 
-[Tracks Dataset](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?select=artists.csv) that contains over 500 thousand tracks
-[Genre Dataset](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db) that contains over 250 thousand tracks with their genre
+### Datasets used
+
+[Tracks Dataset](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?select=artists.csv) that contains over 500 thousand tracks.
+
+[Genre Dataset](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db) that contains over 250 thousand tracks with their genre.
 
 We have done the following steps in this EDA Task:
 
